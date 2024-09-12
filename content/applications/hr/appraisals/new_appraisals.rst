@@ -274,8 +274,9 @@ Once the appraisal is marked as *Done*, the :guilabel:`Mark as Done` button disa
    button.
 
    Then, click the :guilabel:`Confirm` button that appears, and make any modifications needed. Once
-   all modifications are complete, click the the :guilabel:`Mark as Done` button again.
+   all modifications are complete, click the :guilabel:`Mark as Done` button again.
 
 .. seealso::
    - :doc:`../appraisals/goals`
-   - :doc:`../appraisals/reporting`
+   - :doc:`../appraisals/appraisal_analysis`
+   - :doc:`../appraisals/skills_evolution`
